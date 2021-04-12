@@ -1,5 +1,6 @@
 # console.log("Hello World👋")
-I am currently learning web development, building my portfolio and adding projects to it. 
+I am currently learning web development, building my portfolio and adding projects to it. These are all the technologies i use: [HTML, CSS, FIGMA, ADOBE XD, BOOTSTRAP, WORDPRESS, JAVASCRIPT, REACT]
+
 - 👋 Hi, I’m @ariancordoba
 - 👀 I’m interested in dedicating myself to programming
 - 🌱 I’m currently learning Javascript and ReactJS.
