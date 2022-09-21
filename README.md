@@ -1,5 +1,5 @@
 # console.log("Hello World👋")
-I am currently learning web development, building my portfolio and adding projects to it. These are all the technologies i use: [HTML, CSS, SASS, BOOTSTRAP, JAVASCRIPT, REACT. GIT]
+I am currently learning web development, building my portfolio and adding projects to it. These are all the technologies i use: [HTML, CSS, SASS, BOOTSTRAP, JAVASCRIPT, REACT, GIT]
 
 - 👋 Hi, I’m @ariancordoba
 - 👀 I’m interested in dedicating myself to programming
